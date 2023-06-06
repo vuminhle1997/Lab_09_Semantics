@@ -7,13 +7,13 @@
 - Python extension and Jupyter extension for VSCode
 
 ```bash
-    # setup venv
-    python3 -m venv $PWD/venv or
-    python -m venv $PWD/venv
+# setup venv
+python3 -m venv $PWD/venv or
+python -m venv $PWD/venv
 
-    # activate venv
-    source ./venv/bin/activate
+# activate venv
+source ./venv/bin/activate
 
-    # install dependencies
-    pip install -r requirements.txt
+# install dependencies
+pip install -r requirements.txt
 ```
