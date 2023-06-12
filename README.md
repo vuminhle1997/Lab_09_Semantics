@@ -1,6 +1,8 @@
 # Rap artist
 
-[Rap Artists](https://www.kaggle.com/datasets/jessemostipak/rap-artists?resource=download)
+- [Rap Artists](https://www.kaggle.com/datasets/jessemostipak/rap-artists)
+- [IMDB Films By Actor for 10K Actors](https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors)
+- [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 ## Requirements
 
